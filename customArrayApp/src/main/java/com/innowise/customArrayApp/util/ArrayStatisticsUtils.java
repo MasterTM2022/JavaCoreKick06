@@ -1,6 +1,5 @@
 package com.innowise.customArrayApp.util;
 
-import com.innowise.customArrayApp.entity.CustomArray;
 
 public class ArrayStatisticsUtils {
     public ArrayStatisticsUtils() {} // utility class
