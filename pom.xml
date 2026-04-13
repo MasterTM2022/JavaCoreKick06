@@ -11,8 +11,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>customArrayApp</module>
-        <module>textHandler</module>
+        <module>customarrayapp</module>
+        <module>texthandler</module>
+        <module>multiapp</module>
     </modules>
 
     <!-- Общие настройки для всех модулей (опционально) -->
